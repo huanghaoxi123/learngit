@@ -5,4 +5,4 @@
 dummy test
 another dummy test
 third dummy write
-in hot branch write
+in master conflict write
