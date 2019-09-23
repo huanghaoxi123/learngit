@@ -1,6 +1,6 @@
 
 
-
+local main write 1
 
 dummy test
 another dummy test
