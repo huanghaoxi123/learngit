@@ -1,5 +1,4 @@
-
-
+local main write 2
 local main write 1
 
 dummy test
