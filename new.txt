@@ -6,3 +6,6 @@ dummy test
 another dummy test
 third dummy write
 in master conflict write
+
+
+local resposity write
