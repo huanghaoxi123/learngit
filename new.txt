@@ -1,4 +1,4 @@
-local second res  write 3
+local main  write 3
 local main write 1
 
 dummy test
